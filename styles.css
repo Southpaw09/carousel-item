@@ -80,21 +80,21 @@
   }
   
   .slide1 {
-    background-image: url('/pic1.jpg');
+    background-image: url('pic1.jpg');
     background-size: cover;
   }
   
   .slide2 {
-    background-image: url('/pic2.jpg');
+    background-image: url('pic2.jpg');
     background-size: cover;
   }
   
   .slide3 {
-    background-image: url('/pic3.jpg');
+    background-image: url('pic3.jpg');
     background-size: cover;
   }
   
   .slide4 {
-    background-image: url('/pic4.jpg');
+    background-image: url('pic4.jpg');
     background-size: cover;
   }
